@@ -1,4 +1,0 @@
-family,RMSE,MAE,R2,Accuracy_Pct,Order,Seasonal_Order
-PREPARED FOODS,111.0008,96.3128,-0.9970,87.0876,"(2, 1, 2)","(0, 0, 2, 7)"
-"LIQUOR,WINE,BEER",377.5990,315.7995,-0.2445,54.9808,"(2, 1, 0)","(1, 0, 1, 7)"
-AVERAGE (Trung bình nhóm),244.2999,206.0562,-0.6207,71.0342,-,-
